@@ -1,5 +1,11 @@
 # Django Projects 
 
+## Libraries to look into
+
+- django-rest
+- django-cms
+- django-rest-auth
+
 ## Quickstart
 
 Getting postgress database up
